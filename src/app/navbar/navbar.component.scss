@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  list-style: none;
+  border: 0;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(199, 5, 5);
+  color: #ffffff;
+  padding: 30px;
+  margin: -10px -8px 50px -8px;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 2px;
+  font-size: 48px;
+}
